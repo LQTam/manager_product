@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "iPhone X",
+      "price": 3000000,
+      "condition": false
+    },
+    {
+      "id": 8,
+      "name": "dasd",
+      "price": "2",
+      "condition": false
+    },
+    {
+      "id": 9,
+      "name": "Oppo",
+      "price": "1000000",
+      "condition": true
+    },
+    {
+      "id": 10,
+      "name": "HTC One M8",
+      "price": "500",
+      "condition": true
+    }
+  ]
+}
